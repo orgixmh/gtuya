@@ -5,7 +5,7 @@ _No cloud needed. Just click, slide, done._
 
 | | |
 |---|---|
-| <img src="docs/screenshot.png" width="100%"/> | <img src="docs/screenshot.png" width="100%"/> |
+| <img src="docs/screenshot.png" width="100%"/> | <img src="docs/screenshot-settings.png" width="100%"/> |
 ---
 
 ## Features
