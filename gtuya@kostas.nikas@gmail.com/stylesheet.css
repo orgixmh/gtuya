@@ -1,0 +1,29 @@
+
+#panel .panel-button .system-status-icon.tuya-on  { color: #aaaaaa !important; }
+#panel .panel-button:hover .system-status-icon.tuya-on  { color: #aaaaaa !important; }
+
+#panel .panel-button .system-status-icon.tuya-off { color: #aaaaaa !important; }
+#panel .panel-button:hover .system-status-icon.tuya-off { color: #aaaaaa !important; }
+.popup-menu .tuya-nohover:hover,
+.popup-menu .tuya-nohover:focus,
+.popup-menu .tuya-nohover:active {
+  background-color: transparent !important;
+  color: inherit !important;
+}
+.popup-menu .system-status-icon {
+  icon-size: 16px;
+  margin-right: 8px;
+}
+.popup-menu .tuya-title-row {
+  padding-top: 0px !important;
+  padding-bottom: 2px !important;
+  min-height: 0 !important;
+}
+.popup-menu .tuya-title {
+  font-size: 10px;
+  line-height: 12px;
+  opacity: 0.7;
+  padding-bottom: 8px!important;
+  padding: 0;
+  margin: 0;
+}

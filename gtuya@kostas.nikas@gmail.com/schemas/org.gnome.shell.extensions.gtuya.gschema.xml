@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.gtuya"
+          path="/org/gnome/shell/extensions/gtuya/">
+    <key name="devices-json" type="s">
+      <default>'[]'</default>
+
+      <summary>Devices list</summary>
+      <description>JSON array of device objects</description>
+    </key>
+  </schema>
+</schemalist>

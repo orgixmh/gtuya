@@ -1,0 +1,9 @@
+{
+  "uuid": "gtuya@kostas.nikas@gmail.com",
+  "name": "gTuya",
+  "url": "https://github.com/orgixmh/gtuya",
+  "description": "Local-only brightness & power control for Tuya LED lamps. Right from your Gnome top bar. No cloud, no accounts, Just click, slide, done.",
+  "version": 1,
+  "settings-schema": "org.gnome.shell.extensions.gtuya",
+  "shell-version": ["45", "46", "47"]
+}
