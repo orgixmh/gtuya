@@ -37,3 +37,6 @@ Clone into the user extensions dir:
 ```bash
 git clone https://github.com/yourname/gTuya.git \
   ~/.local/share/gnome-shell/extensions/tuya-toggle@kostas
+```
+
+*** For now, only version 3.3 of Tuya protocol is supported.

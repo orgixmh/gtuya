@@ -15,7 +15,7 @@ import {
   sendPower, sendBrightness, queryStatus
 } from './tuya.js';
 
-const EXT_UUID = 'gtuya@kostas.nikas@gmail.com';
+const EXT_UUID = 'gtuya@orgix';
 
 const TuyaToggleButton = GObject.registerClass(
 class TuyaToggleButton extends PanelMenu.Button {
