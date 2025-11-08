@@ -3,9 +3,9 @@
 Local-only **Tuya LED** power & brightness control for **GNOME Shell**  right from your top bar.  
 _No cloud needed. Just click, slide, done._
 
-![screenshot](docs/screenshot.png)
-![screenshot-settings](docs/screenshot-settings.png)
-
+| | |
+|---|---|
+| <img src="docs/screenshot.png" width="100%"/> | <img src="docs/screenshot.png" width="100%"/> |
 ---
 
 ## Features
